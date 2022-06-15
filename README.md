@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eRichards11
+- 👋 Hi, I’m Erin Richards
 - 👀 I’m interested in a new lucrative career path!
 - 🌱 I’m currently learning html/css/JavaScript
 - 💞️ I’m looking to collaborate on small introduction projects to help me better understand basic front-end web development 
